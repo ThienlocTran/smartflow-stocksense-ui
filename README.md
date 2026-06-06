@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/poster.png" alt="SmartFlow StockSense AI Poster" width="850"/>
+</p>
+
 # SmartFlow StockSense UI
 
 Vue frontend for the SmartFlow StockSense inventory management and AI forecasting system.
